@@ -2,7 +2,7 @@ def new_hash
   {}
 end
 
-def Hash
+def my_hash
  {favorite_color: "blue"}
   hash
 end
